@@ -170,7 +170,6 @@ public class Altitude_Holder extends Thread {
                 if (max_thrust != 0) throttle = (speed_out * mass)/max_thrust;
 
                 vessel.getControl().setThrottle((float) throttle);
-                System.out.printf("altiPID: %.1f speedPID: %.1f speed: %.1f alti: %.1f\r\n", altitude_out, speed_out, velocity_mod,altitude);
 
                 Thread.sleep(20);
             }
