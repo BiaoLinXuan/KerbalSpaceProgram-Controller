@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javatuples-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javatuples-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/protobuf-java-3.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/krpc-java-0.4.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
